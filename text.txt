@@ -1,0 +1,29 @@
+
+    <!-- LA PAGE ENTIERE -->
+    <header id="page">
+    <!-- LA PARTIE GAUCHE -->
+    <div id="gauche">
+        <div class="image">
+            <img src="TOF1.jpeg" alt="#">
+        </div>
+        <div class="containerG">
+            <h4> CONTACT</h4>
+            <div class="tr"></div>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id omnis voluptatum ut! Animi nihil quia accusantium asperiores, assumenda ab id reiciendis excepturi saepe ducimus eveniet blanditiis alias atque? Quo, maxime!</p>
+            <h4>FORMATION</h4>
+            <div class="tr"></div>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio asperiores iure autem quia doloribus totam assumenda, doloremque, dolorum consectetur voluptas dignissimos suscipit fugit ducimus officiis neque blanditiis? Voluptas, modi culpa!</p>
+            <h4>LANGUES</h4>
+            <div class="tr"></div>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae eveniet, dolore corrupti molestiae blanditiis dicta fugit voluptatem! Omnis animi dolorum, saepe rem reprehenderit, unde nesciunt voluptatum molestias itaque, tenetur iusto!</p>
+            <h4>CENTRE D'INTERET</h4>
+            <div class="tr"></div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, repudiandae quae quo iusto eum enim exercitationem maxime hic neque excepturi consequatur recusandae ratione! Eligendi, aliquam quod laudantium sapiente veniam accusamus!</p>
+
+        </div>
+    </div>
+    <!-- LA PARTIE DROITE -->
+    <div class="droite">
+        
+    </div>
+</header>;
